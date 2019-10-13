@@ -3,6 +3,7 @@ The idea is to write a command line tool that can enumerate the functions of a p
 
 syntax:
 sanket@lenovo-z4070: funcat neuralnetwork.py 
+
     def __init__(self, n_inputs, n_hiddens_list, n_outputs, use_torch=False):
     
     def __repr__(self):
